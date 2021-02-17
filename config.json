@@ -1,9 +1,9 @@
 {
     "database": {
-        "host": "berkboraktrainingpostgres.postgres.database.azure.com",
-        "dbname": "postgres",
-        "user": "darestine@berkborakTrainingPostgres",
-        "password": "%x009Berkcbx",
+        "host": "postgres://pzsqoqif:TEJNRnn5K-blKjWyar3FevEoszddO7bm@tai.db.elephantsql.com:5432/pzsqoqif",
+        "dbname": "pzsqoqif",
+        "user": "pzsqoqif",
+        "password": "TEJNRnn5K-blKjWyar3FevEoszddO7bm",
         "ssl": "require"
     }
 }
